@@ -1,0 +1,14 @@
+.article {
+    max-width: calc(80% + 10vw);
+    display: grid;
+    place-items: center;
+}
+
+.article img{
+    width: 100%;
+}
+
+time{
+   color: gray;
+   text-align: left;
+}

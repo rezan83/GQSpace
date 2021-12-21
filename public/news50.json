@@ -1,0 +1,781 @@
+[
+  {
+    "id": 13335,
+    "title": "Satellite Vu orders first satellite from SSTL",
+    "url": "https://spacenews.com/satellite-vu-orders-first-satellite-from-sstl/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/darkcarb.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Surrey Satellite Technology Ltd. (SSTL) won a contract from British Earth observation startup Satellite Vu to build the first satellite in a constellation designed to provide thermal infrared imaging for climate change applications.",
+    "publishedAt": "2021-12-17T05:26:43.000Z",
+    "updatedAt": "2021-12-17T05:26:43.481Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13333,
+    "title": "Intelsat gets bankruptcy court approval to exit Chapter 11 in early 2022",
+    "url": "https://spacenews.com/intelsat-gets-bankruptcy-court-approval-to-exit-chapter-11-in-early-2022/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/03/Intelsat_Tysons_Building_003-879x485-1.jpeg",
+    "newsSite": "SpaceNews",
+    "summary": "Intelsat is poised to exit Chapter 11 in early 2022, after its bankruptcy court approved a restructuring plan that cuts the satellite operator’s debt from about $16 billion to $7 billion.",
+    "publishedAt": "2021-12-16T23:56:43.000Z",
+    "updatedAt": "2021-12-16T23:56:43.132Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13332,
+    "title": "Satellogic nearing completion of SPAC merger",
+    "url": "https://spacenews.com/satellogic-nearing-completion-of-spac-merger/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2019/12/satellogic-cx-470x470.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Earth observation company Satellogic expects to begin trading on the Nasdaq next week after completing a merger with special purpose acquisition corporation (SPAC).",
+    "publishedAt": "2021-12-16T23:06:43.000Z",
+    "updatedAt": "2021-12-16T23:06:44.063Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13328,
+    "title": "Webb telescope testing on tap Thursday before setting target launch date",
+    "url": "https://spaceflightnow.com/2021/12/16/webb-telescope-new-launch-date/",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2021/12/51745611272_5aca1392d0_k-2.jpg",
+    "newsSite": "Spaceflight Now",
+    "summary": "Technicians at a jungle spaceport in South America are completing tests on the James Webb Space Telescope Thursday to make sure they fixed a “finicky” communications interface glitch that halted launch preparations earlier this week. NASA and European officials will confirm the mission’s target launch date — currently penciled in for no earlier than Dec. 24 — as soon as Friday.",
+    "publishedAt": "2021-12-16T22:46:38.000Z",
+    "updatedAt": "2021-12-17T06:58:21.016Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13329,
+    "title": "Defense policy bill gives a budget boost to space programs",
+    "url": "https://spacenews.com/defense-policy-bill-gives-a-budget-boost-to-space-programs/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2020/06/45715171884_624136120f_k.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "The 2022 National Defense Authorization Act adds more than $645 million to Defense Department space programs above the Biden administration’s request.",
+    "publishedAt": "2021-12-16T22:06:43.000Z",
+    "updatedAt": "2021-12-16T22:06:43.399Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13327,
+    "title": "Two Astronauts Receive Assignments for NASA’s SpaceX Crew-6 Mission",
+    "url": "http://www.nasa.gov/press-release/two-astronauts-receive-assignments-for-nasa-s-spacex-crew-6-mission",
+    "imageUrl": "https://www.nasa.gov/sites/default/files/thumbnails/image/crew6_bowen_hoburg.jpg?itok=mbcLREsj",
+    "newsSite": "NASA",
+    "summary": "NASA has assigned two crew members to launch on the agency’s SpaceX Crew-6 mission – the sixth crew rotation flight aboard a Crew Dragon spacecraft to the International Space Station.",
+    "publishedAt": "2021-12-16T20:56:00.000Z",
+    "updatedAt": "2021-12-16T21:10:55.962Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "bc325945-4bee-4412-84e1-14998b2eba5f",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13326,
+    "title": "Pléiades Neo 4 satellite enters service without a hitch",
+    "url": "https://spacenews.com/pleiades-neo-4-satellite-enters-service-without-a-hitch/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/08/VV19-scaled.jpeg",
+    "newsSite": "SpaceNews",
+    "summary": "Pléiades Neo 4, the second of four planned high-resolution images satellites built and operated by Airbus Defense and Space, entered service Dec. 15 free from an issue that prompted an insurance claim for Pléiades Neo 3.",
+    "publishedAt": "2021-12-16T20:17:11.000Z",
+    "updatedAt": "2021-12-16T21:27:03.098Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "c46cfec6-f135-41f9-995f-9482b8cbe668",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13324,
+    "title": "SpaceX VP says Starship is already winning commercial launch contracts",
+    "url": "https://www.teslarati.com/spacex-starship-wins-commercial-launch-contracts-2021/",
+    "imageUrl": "https://www.teslarati.com/wp-content/uploads/2021/11/Starship-2021-SpaceX-render-1-crop.jpg",
+    "newsSite": "Teslarati",
+    "summary": "A SpaceX executive says that the company’s next-generation, full-reusable Starship rocket has already secured multiple commercial launch contracts. Set to debut no...",
+    "publishedAt": "2021-12-16T10:07:05.000Z",
+    "updatedAt": "2021-12-16T10:07:15.747Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13323,
+    "title": "Iceye to provide satellite for MDA radar constellation",
+    "url": "https://spacenews.com/iceye-to-provide-satellite-for-mda-radar-constellation/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/iceyesat.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Canada’s MDA is acquiring an X-band synthetic aperture radar (SAR) satellite from Iceye that will be part of its Chorus system intended to replace Radarsat-2.",
+    "publishedAt": "2021-12-16T05:40:13.000Z",
+    "updatedAt": "2021-12-16T05:40:13.581Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13334,
+    "title": "Interoperability demo planned between DARPA’s Blackjack and PredaSAR satellites",
+    "url": "https://spacenews.com/interoperability-demo-planned-between-darpas-blackjack-and-predasar-satellites/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-16-at-2.43.36-PM.png",
+    "newsSite": "SpaceNews",
+    "summary": "PredaSAR won a $2 million contract from the U.S. Space Force to demonstrate interoperability between its satellites and the Blackjack military constellation.",
+    "publishedAt": "2021-12-16T00:06:44.000Z",
+    "updatedAt": "2021-12-17T00:06:44.183Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13320,
+    "title": "Biden taps former NRO official Frank Calvelli to run Space Force acquisitions",
+    "url": "https://spacenews.com/biden-taps-former-nro-official-frank-calvelli-to-run-space-force-acquisitions/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-4.59.32-PM-e1639606133206.png",
+    "newsSite": "SpaceNews",
+    "summary": "President Biden nominated Frank Calvelli to be assistant secretary of the Air Force for space acquisition, the White House announced Dec. 15.",
+    "publishedAt": "2021-12-15T22:10:11.000Z",
+    "updatedAt": "2021-12-15T22:10:11.554Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13317,
+    "title": "Congress passes the 2022 National Defense Authorization Act",
+    "url": "https://spacenews.com/congress-passes-the-2022-national-defense-authorization-act-bill-now-headed-to-presidents-desk/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2015/05/United_States_Capitol_-_west_front.gif",
+    "newsSite": "SpaceNews",
+    "summary": "The Senate on Dec. 15 passed the National Defense Authorization Act for Fiscal Year 2022 with broad bipartisan support in a 89-10 vote.",
+    "publishedAt": "2021-12-15T21:00:13.000Z",
+    "updatedAt": "2021-12-15T21:00:13.264Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13318,
+    "title": "Raytheon wins $67 million U.S. Space Force contract to build weather satellite prototype",
+    "url": "https://spacenews.com/raytheon-wins-67-million-u-s-space-force-contract-to-build-weather-satellite-prototype/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/09/Hurricane-and-satellite-lead_0.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Raytheon Technologies was awarded a $67 million contract to build a weather satellite prototype for the U.S. Space Force.",
+    "publishedAt": "2021-12-15T20:30:11.000Z",
+    "updatedAt": "2021-12-15T20:30:11.949Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13316,
+    "title": "Stoke Space raises $65 million for reusable launch vehicle development",
+    "url": "https://spacenews.com/stoke-space-raises-65-million-for-reusable-launch-vehicle-development/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/stokespace.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Stoke Space raised $65 million in a Series A round announced Dec. 15, funding development and testing of the upper stage of a reusable launch vehicle.",
+    "publishedAt": "2021-12-15T20:00:12.000Z",
+    "updatedAt": "2021-12-15T20:00:12.528Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13315,
+    "title": "NASA's Ingenuity Mars Helicopter Reaches a Total of 30 Minutes Aloft",
+    "url": "https://mars.nasa.gov/news/9099/",
+    "imageUrl": "https://mars.nasa.gov/system/news_items/main_images/9099_PIA25021-web2.jpg",
+    "newsSite": "NASA",
+    "summary": "With its recent 17th flight, the Red Planet rotorcraft reaches an airborne milestone the team never considered achievable. Its 18th flight is scheduled for no earlier than today.",
+    "publishedAt": "2021-12-15T19:10:00.000Z",
+    "updatedAt": "2021-12-15T19:10:58.599Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13313,
+    "title": "NASA's Perseverance Mars Rover Makes Surprising Discoveries",
+    "url": "https://mars.nasa.gov/news/9098/",
+    "imageUrl": "https://mars.nasa.gov/system/news_items/main_images/9098_PIA25022-web.jpg",
+    "newsSite": "NASA",
+    "summary": "The findings by rover scientists highlight the diversity of samples geologists and future scientists associated with the agency’s Mars Sample Return program will have to study.",
+    "publishedAt": "2021-12-15T17:40:00.000Z",
+    "updatedAt": "2021-12-15T19:11:09.361Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "c4db6995-f25f-4608-8eb9-ce95d5226af2",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13312,
+    "title": "Kuaizhou-1A experiences second launch failure",
+    "url": "https://www.nasaspaceflight.com/2021/12/kuaizhou-1a-second-failure/",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2021/12/9da82ba5gy1gwr2vx1e7sj215o0rsdin.jpg",
+    "newsSite": "NASA Spaceflight",
+    "summary": "At 02:00 UTC, or 10:00 am local time Wednesday, ExPace unsuccessfully launched a Kuaizhou-1A rocket from the Jiuquan Satellite Launch Center in China. The vehicle was launched from Site 95 at Jiuquan.",
+    "publishedAt": "2021-12-15T16:59:15.000Z",
+    "updatedAt": "2021-12-16T07:35:50.624Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "a0effefd-f827-4c82-b367-6dd5c95dfe65",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13325,
+    "title": "SpaceX to close out year with surge of launches",
+    "url": "https://spaceflightnow.com/2021/12/15/spacex-to-close-out-year-with-surge-of-launches/",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2021/12/51737234364_3dcbc9b213_k.jpg",
+    "newsSite": "Spaceflight Now",
+    "summary": "SpaceX is set to close out the year with three Falcon 9 rocket flights in just four days from launch pads in Florida and California, carrying another batch of Starlink internet satellites, a Turkish data relay spacecraft, and a resupply mission to the International Space Station.",
+    "publishedAt": "2021-12-15T16:26:38.000Z",
+    "updatedAt": "2021-12-16T21:27:32.067Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1",
+        "provider": "Launch Library 2"
+      },
+      {
+        "id": "878ba32c-5e93-4d2b-95c3-24b60c8b05e7",
+        "provider": "Launch Library 2"
+      },
+      {
+        "id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13310,
+    "title": "Type One Ventures raises investment target",
+    "url": "https://spacenews.com/type-one-ventures-second-fund/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/rsz_3image_from_ios.png",
+    "newsSite": "SpaceNews",
+    "summary": "Type One Ventures has raised $34 million of the $50 million it plans to invest in space technology and deep technology startups through its second fund.",
+    "publishedAt": "2021-12-15T14:10:15.000Z",
+    "updatedAt": "2021-12-15T14:10:15.589Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13309,
+    "title": "Communications problem delays JWST launch",
+    "url": "https://spacenews.com/communications-problem-delays-jwst-launch/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/jwst-integration.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "A communications problem has delayed the launch of NASA’s James Webb Space Telescope by at least two more days, the agency announced late Dec. 14.",
+    "publishedAt": "2021-12-15T12:20:11.000Z",
+    "updatedAt": "2021-12-15T16:12:35.539Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13308,
+    "title": "SpaceX’s next West Coast Starlink launch is heading to an unexpected orbit",
+    "url": "https://www.teslarati.com/spacex-next-starlink-launch-different-orbit/",
+    "imageUrl": "https://www.teslarati.com/wp-content/uploads/2021/10/Starlink-2-1-V1.5-F9-B1049-091321-SpaceX-streak-1-crop-c.jpg",
+    "newsSite": "Teslarati",
+    "summary": "SpaceX has unexpectedly changed the Earth orbit its next Starlink launch is targeting. Like all planned Starlink launches, the latest batch of...",
+    "publishedAt": "2021-12-15T10:21:46.000Z",
+    "updatedAt": "2021-12-15T10:50:57.529Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13307,
+    "title": "Chinese Kuaizhou-1A rocket launch fails",
+    "url": "https://spacenews.com/chinese-kuaizhou-1a-rocket-launch-fails/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/10/kuaizhou-1A-Jilin-GF-02F-JSLC-27oct2021-OurSpace.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "A Kuaizhou-1A solid rocket failed after liftoff late Tuesday with the loss of a pair of commercial satellites to test navigation enhancement for autonomous driving.",
+    "publishedAt": "2021-12-15T09:40:42.000Z",
+    "updatedAt": "2021-12-16T07:36:04.891Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "a0effefd-f827-4c82-b367-6dd5c95dfe65",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13306,
+    "title": "No decision yet on where to build OneWeb second-generation satellites",
+    "url": "https://spacenews.com/no-decision-yet-on-where-to-build-oneweb-second-generation-satellites/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2020/08/OWS-FAL-FL-20190722-Outside-cOneWeb-Satellites.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "A week after a OneWeb executive told British officials that the company would move production of its second generation of satellites to the United Kingdom, another executive said the company has yet to decide where it will build those satellites.",
+    "publishedAt": "2021-12-15T05:50:41.000Z",
+    "updatedAt": "2021-12-15T05:50:41.904Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13322,
+    "title": "Four NASA Earth Science missions to launch in 2022",
+    "url": "https://spacenews.com/four-nasa-earth-science-missions-to-launch-in-2022/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/rsz_1screen_shot_2021-12-15_at_61111_pm.png",
+    "newsSite": "SpaceNews",
+    "summary": "NASA’s Earth Science Division is preparing to launch four satellite missions in 2022 to provide observations of weather conditions, mineral dust, oceans and surface water.",
+    "publishedAt": "2021-12-15T03:40:13.000Z",
+    "updatedAt": "2021-12-16T21:28:59.804Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "8226d219-b612-4797-a9d2-c5ca7ab0b076",
+        "provider": "Launch Library 2"
+      },
+      {
+        "id": "060fc260-01bd-41ec-a0be-ce2223fbbc76",
+        "provider": "Launch Library 2"
+      },
+      {
+        "id": "f4ffe15c-6009-4eaa-b60e-aef586c8cb5f",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13321,
+    "title": "Honeywell and Skyloom to produce laser crosslinks for military and commercial satellites",
+    "url": "https://spacenews.com/honeywell-and-skyloom-to-produce-laser-crosslinks-for-military-and-commercial-satellites/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-1.22.36-PM.png",
+    "newsSite": "SpaceNews",
+    "summary": "Honeywell announced Dec. 15 it has teamed with telecommunications startup Skyloom to produce optical crosslink terminals for commercial and military satellites.",
+    "publishedAt": "2021-12-15T00:00:15.000Z",
+    "updatedAt": "2021-12-16T00:00:16.023Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13284,
+    "title": "SpaceX set to launch three Falcon 9 rockets in three days after Starlink delay",
+    "url": "https://www.teslarati.com/spacex-three-falcon-9-launches-four-days-2021/",
+    "imageUrl": "https://www.teslarati.com/wp-content/uploads/2021/12/Transporter-2-Falcon-9-B1060-063021-Richard-Angle-3X-c.jpg",
+    "newsSite": "Teslarati",
+    "summary": "Update: SpaceX’s second dedicated West Coast Starlink launch has slipped to no earlier than (NET) 1:24 am PDT (09:24 UTC) on Saturday,...",
+    "publishedAt": "2021-12-14T22:17:02.000Z",
+    "updatedAt": "2021-12-16T22:17:12.887Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1",
+        "provider": "Launch Library 2"
+      },
+      {
+        "id": "878ba32c-5e93-4d2b-95c3-24b60c8b05e7",
+        "provider": "Launch Library 2"
+      },
+      {
+        "id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13293,
+    "title": "HyspecIQ selects advisers, offering clues to early applications",
+    "url": "https://spacenews.com/hyspeciq-selects-advisors/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/rsz_slide8.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "HyspecIQ is beginning to fill out its advisory board, a move that offers clues to the hyperspectral imagery applications the startup plans to address.",
+    "publishedAt": "2021-12-14T22:10:49.000Z",
+    "updatedAt": "2021-12-14T22:10:49.654Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13299,
+    "title": "Astranis unveils insurance package for Falcon Heavy launch",
+    "url": "https://spacenews.com/astranis-unveils-insurance-package-for-falcon-heavy-launch/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/Astranis-employee-with-Arcturus-MicroGEO-satellite-inside-TVAC-test-chamber-1-scaled.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Startup Astranis unveiled more details Dec. 14 of the insurance package covering its first commercial small satellite, which SpaceX is slated to launch to geostationary orbit (GEO) as a secondary payload on a Falcon Heavy rocket next spring.",
+    "publishedAt": "2021-12-14T22:00:53.000Z",
+    "updatedAt": "2021-12-14T22:00:53.409Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13298,
+    "title": "SpaceX whistleblowers allege widespread sexual harassment",
+    "url": "https://www.teslarati.com/spacex-sexual-harassment-whistleblowers-2021/",
+    "imageUrl": "https://www.teslarati.com/wp-content/uploads/2019/11/Starlink-1-Falcon-9-B1048-OCISLY-break-over-111919-Richard-Angle-1-crop-c.jpg",
+    "newsSite": "Teslarati",
+    "summary": "On the heels of a similar report on Blue Origin, five whistleblowers in two different exposes from Lioness and The Verge allege...",
+    "publishedAt": "2021-12-14T21:51:56.000Z",
+    "updatedAt": "2021-12-14T21:52:15.548Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13297,
+    "title": "NASA Awards Contracts for Rotorcraft Vertical Lift Technology Services",
+    "url": "http://www.nasa.gov/press-release/nasa-awards-contracts-for-rotorcraft-vertical-lift-technology-services",
+    "imageUrl": "https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb_0.jpg?itok=mrBnB_c9",
+    "newsSite": "NASA",
+    "summary": "NASA has awarded multiple contracts to provide rotorcraft vertical lift technology development research and development support at the agency’s Ames Research Center in California's Silicon Valley.",
+    "publishedAt": "2021-12-14T21:31:00.000Z",
+    "updatedAt": "2021-12-14T21:31:22.537Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13288,
+    "title": "Space traffic analytics startup Kayhan Space raises $3.7 million in seed funding",
+    "url": "https://spacenews.com/space-traffic-control-startup-kayhan-space-raises-3-7-million-in-seed-funding/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-10-at-1.40.59-PM.png",
+    "newsSite": "SpaceNews",
+    "summary": "",
+    "publishedAt": "2021-12-14T20:40:51.000Z",
+    "updatedAt": "2021-12-14T20:40:51.647Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13296,
+    "title": "Concerns about sexism in the aerospace industry land at SpaceX",
+    "url": "https://arstechnica.com/science/2021/12/concerns-about-sexism-in-the-aerospace-industry-land-at-spacex/",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2014/05/DSC_2076.jpg",
+    "newsSite": "Arstechnica",
+    "summary": "\"What will life on Elon's Mars be like? Probably much like life at SpaceX.\"",
+    "publishedAt": "2021-12-14T20:30:07.000Z",
+    "updatedAt": "2021-12-14T20:40:58.576Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13294,
+    "title": "Vulcan continues path to its maiden launch as ULA turns 15",
+    "url": "https://www.nasaspaceflight.com/2021/12/vulcan-path-to-launch-ula-15/",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2021/12/lead-render.jpg",
+    "newsSite": "NASA Spaceflight",
+    "summary": "On December 14, 2006, a Delta II rocket launched from VAFB (Vandenberg Air Force Base) SLC-2 (Space Launch Complex 2) on the NROL-21 mission. This launch marked the first mission for ULA (United Launch Alliance) and the beginning of its 15-year history.",
+    "publishedAt": "2021-12-14T20:14:50.000Z",
+    "updatedAt": "2021-12-16T07:36:27.840Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "b973e965-3901-4bda-9236-b0afee33f388",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13314,
+    "title": "China launches two satellites on 400th Long March rocket mission",
+    "url": "https://spaceflightnow.com/2021/12/14/china-launches-two-satellites-on-400th-long-march-rocket-mission/",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2021/12/lm4bsj6-05.jpg",
+    "newsSite": "Spaceflight Now",
+    "summary": "The 400th flight of China’s Long March rocket family deployed two classified Shijian 6 satellites into orbit Dec. 10, likely on a mission to test technology or gather signals intelligence data for the Chinese military.",
+    "publishedAt": "2021-12-14T18:30:10.000Z",
+    "updatedAt": "2021-12-16T07:37:39.431Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "ee41a4a4-e57c-435e-8445-73c5a3df0e15",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13290,
+    "title": "Russian rocket deploys Express comsats into high-altitude orbit",
+    "url": "https://spaceflightnow.com/2021/12/14/russian-rocket-deploys-express-communications-satellites-into-high-altitude-orbit/",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2021/12/4096645957.jpg",
+    "newsSite": "Spaceflight Now",
+    "summary": "A Russian rocket stage deployed two television and internet relay satellites into a high-altitude orbit 18 hours after liftoff Monday from the Baikonur Cosmodrome in Kazakhstan aboard a Proton rocket.",
+    "publishedAt": "2021-12-14T16:50:14.000Z",
+    "updatedAt": "2021-12-15T08:54:49.676Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "700b3892-cff9-4164-b1cb-c60bb3d81635",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13311,
+    "title": "China’s commercial Ceres launcher delivers five satellites into orbit",
+    "url": "https://spaceflightnow.com/2021/12/14/chinas-commercial-ceres-launcher-delivers-five-satellites-into-orbit/",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2021/12/ceresy2.jpg",
+    "newsSite": "Spaceflight Now",
+    "summary": "A solid-fueled Ceres satellite launcher developed to serve China’s burgeoning commercially-focused smallsat market successfully deployed five spacecraft into orbit Dec. 7, making the new Chinese rocket two-for-two since its debut last year.",
+    "publishedAt": "2021-12-14T16:30:08.000Z",
+    "updatedAt": "2021-12-16T07:38:00.587Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "7ccf6526-6c1f-42f6-99d6-83a429249cef",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13287,
+    "title": "Albedo wins license to sell 10-centimeter imagery",
+    "url": "https://spacenews.com/albedo-wins-license-to-sell-10-centimeter-imagery/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/rsz_albedo_satellite.png",
+    "newsSite": "SpaceNews",
+    "summary": "Earth observation startup Albedo was granted a National Oceanic and Atmospheric Administration license to sell commercial optical imagery with a resolution of 10 centimeters per pixel.",
+    "publishedAt": "2021-12-14T14:10:42.000Z",
+    "updatedAt": "2021-12-14T14:10:42.865Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13286,
+    "title": "Leaky valve issue forces Boeing to swap out Starliner’s service module",
+    "url": "https://arstechnica.com/science/2021/12/boeing-to-replace-starliner-service-module-make-mid-2022-launch-attempt/",
+    "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/12/Starliner-Photo-Op-Dec-4-2019-6530.jpg",
+    "newsSite": "Arstechnica",
+    "summary": "\"Ongoing investigation efforts continue to validate the most probable cause.\"",
+    "publishedAt": "2021-12-14T13:56:37.000Z",
+    "updatedAt": "2021-12-14T14:25:57.687Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "f1bcfbf6-d00d-42d7-bc68-82252817a57e",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13285,
+    "title": "Rocket Lab to acquire SolAero Holdings",
+    "url": "https://spacenews.com/rocket-lab-to-acquire-solaero-holdings/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/11/OW-Side-Shot-of-a-Satellite-2021.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Rocket Lab announced Dec. 13 that it is acquiring solar power system manufacturer SolAero Holdings, the latest in a series of acquisitions by Rocket Lab of component developers.",
+    "publishedAt": "2021-12-14T13:50:45.000Z",
+    "updatedAt": "2021-12-14T13:50:45.471Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13283,
+    "title": "Satellite operators criticize “extreme” megaconstellation filings",
+    "url": "https://spacenews.com/satellite-operators-criticize-extreme-megaconstellation-filings/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/11/TelesatConstellation.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Established satellite operators expressed their frustration at the wave of filings for enormous satellite constellations, arguing nations need to step forward and establish rules to curtail such systems.",
+    "publishedAt": "2021-12-14T05:30:46.000Z",
+    "updatedAt": "2021-12-14T05:30:46.614Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13305,
+    "title": "Viasat-Inmarsat deal remains on track",
+    "url": "https://spacenews.com/viasat-inmarsat-deal-remains-on-track/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2019/12/36867574_1821617957928572_6905989485603848192_o-470x470.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Viasat’s acquisition of Inmarsat is moving ahead, company executives said, despite ongoing work to secure approval from the British government as well as a drop in share price that has cut a billion dollars from the value of the deal.",
+    "publishedAt": "2021-12-14T04:50:38.000Z",
+    "updatedAt": "2021-12-15T04:50:38.480Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13304,
+    "title": "SPAC activity may pause but it will be back",
+    "url": "https://spacenews.com/spacs-pause-but-dont-end/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/rsz_img_0257.png",
+    "newsSite": "SpaceNews",
+    "summary": "The rate of space company mergers with special purpose acquisition corporations may be slowing, but the trend isn’t over, according to investors speaking at TechCrunch Space Sessions 2021.",
+    "publishedAt": "2021-12-14T03:40:49.000Z",
+    "updatedAt": "2021-12-15T03:40:49.700Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13303,
+    "title": "NASA delays launch of Webb telescope to no earlier than Dec. 24",
+    "url": "https://spaceflightnow.com/2021/12/14/nasa-delays-launch-of-webb-telescope-to-no-earlier-than-dec-24/",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2021/12/webbstack15.jpg",
+    "newsSite": "Spaceflight Now",
+    "summary": "Engineers discovered an intermittent data dropout associated with a piece of ground support equipment after connecting the James Webb Space Telescope with its Ariane 5 launcher over the weekend in French Guiana, and the observatory’s long-awaited blastoff will be delayed at least two days to Dec. 24 to troubleshoot the problem, the head of NASA’s science division said Tuesday.",
+    "publishedAt": "2021-12-14T01:40:17.000Z",
+    "updatedAt": "2021-12-15T08:53:45.526Z",
+    "featured": true,
+    "launches": [
+      {
+        "id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13282,
+    "title": "China launches second Tianlian II communication satellite",
+    "url": "https://www.nasaspaceflight.com/2021/12/second-tianlian-ii/",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2021/12/lead.jpeg",
+    "newsSite": "NASA Spaceflight",
+    "summary": "China has launched the second satellite for the Tianlian II tracking and data relay series. This satellite enables communications between spacecraft and is part of the new series of Tianlian satellites, after the initial launch of the first Tianlian II in March of 2019. ",
+    "publishedAt": "2021-12-14T00:33:26.000Z",
+    "updatedAt": "2021-12-14T08:24:17.057Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "8bddef41-35c8-4170-9449-33a9ecb6d8fc",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13302,
+    "title": "U.S. military looking to build lasting relationships with commercial space industry",
+    "url": "https://spacenews.com/u-s-military-looking-to-build-lasting-relationships-with-commercial-space-industry/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/211117-X-DC888-0018-scaled.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "Government buyers are still trying to figure out how to work with private firms and attract suppliers that have not traditionally sought government contracts, officials said Dec. 14 at a TechCrunch conference.",
+    "publishedAt": "2021-12-14T00:30:52.000Z",
+    "updatedAt": "2021-12-15T00:30:52.217Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13301,
+    "title": "Webb telescope mounted on top of Ariane 5 rocket in French Guiana",
+    "url": "https://spaceflightnow.com/2021/12/14/webb-telescope-mounted-on-top-of-ariane-5-rocket-in-french-guiana/",
+    "imageUrl": "https://spaceflightnow.com/wp-content/uploads/2021/12/webbstack12.jpg",
+    "newsSite": "Spaceflight Now",
+    "summary": "The nearly $10 billion James Webb Space Telescope, suspended under a crane with four cables, was raised atop an Ariane 5 launcher Saturday inside a vertical hangar in French Guiana, one of the final steps to prep the mission for liftoff this month after a quarter-century of design and development.",
+    "publishedAt": "2021-12-14T00:20:18.000Z",
+    "updatedAt": "2021-12-16T07:38:34.417Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13281,
+    "title": "Booster 4 returns to the Launch Mount ahead of test campaign",
+    "url": "https://www.nasaspaceflight.com/2021/12/booster-4-returns-mount-test-campaign/",
+    "imageUrl": "https://www.nasaspaceflight.com/wp-content/uploads/2021/12/NSF-2021-12-13-23-07-07-307.jpg",
+    "newsSite": "NASA Spaceflight",
+    "summary": "Super Heavy Booster 4 has returned to the Orbital Launch Mount (OLM), this time for an expected series of Static Fire tests.",
+    "publishedAt": "2021-12-13T23:15:07.000Z",
+    "updatedAt": "2021-12-13T23:20:44.370Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13280,
+    "title": "BlackSky to begin transition to higher-resolution imaging satellites in 2023",
+    "url": "https://spacenews.com/%e2%80%a8blacksky-to-begin-transition-to-higher-resolution-imaging-satellites-in-2023/",
+    "imageUrl": "https://spacenews.com/wp-content/uploads/2021/12/MayfieldKY-12-12-21-scaled-e1639425543681.jpg",
+    "newsSite": "SpaceNews",
+    "summary": "With 12 satellites currently in orbit, BlackSky plans to add two or four more next year before it transitions to a higher-resolution spacecraft in 2023.",
+    "publishedAt": "2021-12-13T22:20:36.000Z",
+    "updatedAt": "2021-12-13T22:20:36.329Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  },
+  {
+    "id": 13279,
+    "title": "NASA Selects Second Private Astronaut Mission to Space Station",
+    "url": "http://www.nasa.gov/press-release/nasa-selects-second-private-astronaut-mission-to-space-station",
+    "imageUrl": "https://www.nasa.gov/sites/default/files/thumbnails/image/51710869257_e57bca45a6_k.jpg?itok=MaCwQBRO",
+    "newsSite": "NASA",
+    "summary": "NASA has selected Axiom Space for the second private astronaut mission to the International Space Station.",
+    "publishedAt": "2021-12-13T21:11:00.000Z",
+    "updatedAt": "2021-12-13T21:44:36.092Z",
+    "featured": false,
+    "launches": [
+      {
+        "id": "0297d3dc-0513-450a-babc-6f3da8e8c181",
+        "provider": "Launch Library 2"
+      }
+    ],
+    "events": []
+  },
+  {
+    "id": 13278,
+    "title": "SpaceX installs Starship booster on orbital launch mount for the third time",
+    "url": "https://www.teslarati.com/spacex-super-heavy-b4-third-times-the-charm/",
+    "imageUrl": "https://www.teslarati.com/wp-content/uploads/2021/12/Starbase-121321-Starship-Gazer-B4-OLM-install-3-1-c.jpg",
+    "newsSite": "Teslarati",
+    "summary": "After several signs of imminent activity on Sunday, SpaceX has installed Super Heavy Booster 4 (B4) on Starbase’s lone ‘orbital launch mount’...",
+    "publishedAt": "2021-12-13T19:31:41.000Z",
+    "updatedAt": "2021-12-13T19:32:06.077Z",
+    "featured": false,
+    "launches": [],
+    "events": []
+  }
+]
