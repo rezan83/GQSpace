@@ -8,10 +8,9 @@ interface LocationState{
      
 
 const Article = () => {
-    let item:any = {}
-    // let location = useLocation();
-    // let {item} = location.state as LocationState
-    // console.log(item)
+    let location = useLocation();
+    let {item} = location.state as LocationState
+    console.log(item)
     let d = new Date(item.publishedAt)
     let publishedAt = d.toDateString()
  
