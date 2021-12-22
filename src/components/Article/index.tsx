@@ -18,10 +18,13 @@ const Article = () => {
     return (
         <div className='article'>
             <img src={item.imageUrl} alt="" />
+            <div>
+
             <h4>{item.title}</h4>
             <p>{item.summary}</p>
             <time>{publishedAt}</time>
-            <Link to='/' > back </Link>
+            </div>
+            <Link to='/' > home </Link>
         </div>
     )
 }
