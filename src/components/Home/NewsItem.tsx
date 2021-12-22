@@ -5,7 +5,7 @@ import { IpropsNewsItem } from '../../interfaces'
 const NewsItem = (props:IpropsNewsItem) => {
     let {item} = props
     return (
-        <div className='news-item'>
+        <div data-testid={`news-item ${item.id}`} className='news-item'>
             <img src={item.imageUrl} alt="" />
             
             <Link 

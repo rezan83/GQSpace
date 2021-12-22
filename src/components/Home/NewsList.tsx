@@ -5,7 +5,7 @@ import NewsItem from './NewsItem'
 const  NewsList=(props: IpropsNewsList) =>{
     let {news} = props;
     const newsList = news.map(item => (
-        <NewsItem item={item}/>
+        <NewsItem key={item.id} item={item}/>
         
     ))
     return (

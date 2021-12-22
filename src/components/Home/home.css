@@ -12,7 +12,8 @@
     margin: 20px 5px;
     padding: 5px;
     padding-top: 0;
-    transition: all 500ms;
+    background-color: white;
+    transition: transform 500ms;
 }
 
 
