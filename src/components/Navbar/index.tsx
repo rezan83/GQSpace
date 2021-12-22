@@ -20,7 +20,7 @@ const Navbar = () => {
         <div onClick={menuClickHandel} data-testid="burgerBTN" className='burger-menu'>{isMenuOpen?  <>&#10006;</> : <>&#9776;</> }</div>
 
       </nav>
-    <div onClick={()=> set_isMenuOpen(false)} className={isMenuOpen? 'second-nav-big':'second-nav'}>
+    <div onClick={()=> set_isMenuOpen(false)} data-testid="secondNav" className={isMenuOpen? 'second-nav-big':'second-nav'}>
       <NavLink to='/' >
         global
       </NavLink>
